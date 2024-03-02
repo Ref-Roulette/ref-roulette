@@ -1,4 +1,6 @@
 # Ref-Roulette
+![Screen Recording 2024-03-02 at 7 (1)](https://github.com/erados/ref-roulette/assets/19205043/d6fdb354-57c9-4138-8373-d388fd807afc)
+
 
 ## Description
 
